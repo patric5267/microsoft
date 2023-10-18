@@ -1,0 +1,11 @@
+.pages:hover .hoverline{
+    display: block;
+}
+
+.arrow{
+    transition: 1s;
+}
+
+.people:hover .arrow{
+    transform: translateX(4px);
+}
